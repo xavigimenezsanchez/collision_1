@@ -1,5 +1,5 @@
 # Amb dues Pilotes i un rectangle
-## bé de fet hi ha 150
+## bé de fet hi ha 150 pilotes
 
 Per aquest exemple he fet servir la POO clàsica.
 
